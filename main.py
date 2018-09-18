@@ -1,4 +1,5 @@
 def poruka(tekst):
+//poruka
     print(tekst)
 
 
