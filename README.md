@@ -1,2 +1,2 @@
 # python-pipi-tutorial
-boo
+Da vidimo
